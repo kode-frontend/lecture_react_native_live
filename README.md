@@ -1,3 +1,9 @@
-# Frontend Intership 2021
+# React Native Todo
 
-Здесь будет заготовка для задания
+How install?
+
+
+- prepare environment [expo](https://expo.dev)
+- clone repo
+- `yarn`
+- `yarn ios` or `yarn android`
